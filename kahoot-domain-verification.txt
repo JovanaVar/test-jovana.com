@@ -1,1 +1,1 @@
-kahoot-domain-verification=691c40c498b64b9968bcbcf377609904df2e22c5932a1aeddc7d9d41e97fe390
+kahoot-domain-verification=34c7d2c8026e27f11bd957664d424c641ece5baff91c7a97586ed92dd0ca23fb
